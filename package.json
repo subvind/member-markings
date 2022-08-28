@@ -1,0 +1,11 @@
+{
+  "name": "member-markings",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "examples:letter": "ts-node ./examples/letter.ts",
+    "examples:number": "ts-node ./examples/number.ts",
+    "examples:symbol": "ts-node ./examples/symbol.ts",
+    "tests": "ts-node tests.ts"
+  }
+}
